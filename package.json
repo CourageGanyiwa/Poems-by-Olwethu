@@ -1,0 +1,33 @@
+{
+  "name": "Our Poems",
+  "version": "1.0.0",
+  "description": "A website for poems written by Olwethu.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "bootstrap-icons": "^1.13.1",
+    "or": "^0.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.5.5"
+  },
+  "keywords": [
+    "Poems",
+    "Poetry",
+    "Art",
+    "react",
+    "vite"
+  ],
+  "author": "Olwethu",
+  "license": "MIT",
+  "type": "commonjs"
+}
