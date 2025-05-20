@@ -8,7 +8,7 @@ const Header = () => {
         <div class="container-fluid d-flex justify-content-start">
           <a class="navbar-brand" href="#" style={{ textDecoration: "none" }}>
             <img
-              src="../src/assets/poetry-art.jpg"
+              src="./src/assets/poetry-art.jpg"
               alt=""
               className="img-fluid"
               style={{
